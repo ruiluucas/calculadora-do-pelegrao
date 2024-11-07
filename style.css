@@ -1,0 +1,22 @@
+body {
+  background-color: black;
+  color: azure;
+}
+
+table {
+}
+
+tr {
+}
+
+td {
+  padding: 2rem;
+  background-color: dimgrey;
+  transition: all 0.2s;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+td:hover {
+  background-color: rgb(139, 139, 139);
+}
